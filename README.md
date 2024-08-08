@@ -1,2 +1,2 @@
-# Starving-Jhons
+# Starving-Johns
 New fast-food restaurant.
